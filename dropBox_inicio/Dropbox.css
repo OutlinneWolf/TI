@@ -1,0 +1,109 @@
+/* Dropbox.css */
+
+body {
+        
+        font-family: "lucida grande",arial,verdana,sans-serif;
+        
+     }
+
+p{color: #a8a8a8;}
+
+footer{
+        display: table;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+a{
+        margin-left: 15px;
+        color: #a8a8a8;
+        text-decoration: none;
+}
+     
+header{
+        align-content: center;
+        margin-left: 0;
+        margin-right: 0;
+        border-bottom: solid 3px #a8a8a8;
+}
+
+div.head
+{
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        margin-top: 100px;
+}
+
+img.head{
+         display: inline-block;
+         margin-left: 300px;
+         
+}
+article.wherever{
+        display: inline-block;
+        align-content: center;
+        padding-bottom: 50px;
+}
+
+div.w{
+        text-align: left;
+        margin-left: 400px;
+        width: 700px;
+
+}
+img.i{
+        padding-left: 50px;
+        float: right;
+}
+
+
+article.share{
+        display: inline-block;
+        align-content: center;
+        padding-bottom: 50px;
+}
+
+div.h{
+        
+
+}
+img.s{
+        padding-right: 50px;
+        margin-left: 400px;
+        float: left;
+}
+
+article.safe{
+        display: inline-block;
+        align-content: center;
+        padding-bottom: 50px;
+}
+
+div.f{
+        text-align: left;
+        margin-left: 400px;
+        width: 700px;
+
+}
+img.a{
+        padding-left: 50px;
+        float: right;
+}
+
+article.business{
+        display: inline-block;
+        align-content: center;
+        padding-bottom: 50px;
+}
+
+div.u{
+        
+
+}
+img.b{
+        padding-right: 50px;
+        margin-left: 400px;
+        float: left;
+}
